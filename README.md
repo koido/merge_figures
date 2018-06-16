@@ -1,7 +1,7 @@
 
 # Merge figures
 
-`merge_figures` is a command line tool for merging figures.
+`merge_figures` is a command line tool for merging figures by python.
 
 ## Dependency
 
