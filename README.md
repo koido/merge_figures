@@ -12,8 +12,8 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/koido/arrange_images.git
-cd arrange_images
+git clone https://github.com/koido/merge_figures.git
+cd merge_figures
 ./merge.py -h
 ```
 
